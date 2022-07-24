@@ -1,0 +1,1 @@
+This is some text as a testing git staging area and statuses
