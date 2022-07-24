@@ -1,1 +1,2 @@
 This is some text as a testing git staging area and statuses
+This is a change made just to test the editing commiting message using VS Code
